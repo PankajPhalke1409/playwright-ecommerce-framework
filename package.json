@@ -1,0 +1,17 @@
+{
+  "name": "playwright-ecommerce-framework",
+  "version": "1.0.0",
+  "description": "Demo Web Shop Automation Framework",
+  "scripts": {
+    "test": "npx playwright test",
+    "headed": "npx playwright test --headed",
+    "chrome": "npx playwright test --project=chromium",
+    "firefox": "npx playwright test --project=firefox",
+    "report": "npx playwright show-report"
+  },
+  "author": "Pankaj Phalke",
+  "devDependencies": {
+   "@playwright/test": "^1.61.1",
+    "@types/node": "^26.0.1"
+  }
+}

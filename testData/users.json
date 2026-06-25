@@ -1,0 +1,13 @@
+{
+  "validUser": {
+    "email": "automationtest123@gmail.com",
+    "password": "Password@123"
+  },
+
+  "newUser": {
+    "firstName": "Pankaj",
+    "lastName": "Phalke",
+    "email": "pankaj12345@gmail.com",
+    "password": "Password@123"
+  }
+}

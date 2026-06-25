@@ -1,0 +1,15 @@
+{
+  "productName": "Desktop Computer",
+  "quantity": "2",
+
+  "billingAddress": {
+
+    "city": "Pune",
+
+    "address": "Hinjewadi Phase 1",
+
+    "zipCode": "411057",
+
+    "phone": "9890816970"
+  }
+}
